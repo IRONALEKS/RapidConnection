@@ -1,3 +1,4 @@
+![Alt text](/Images/Logo.png?raw=true "Diagram")
 # RapidConnection
 
 RapidConnection is a lightweight library that is written tottaly in Java without any dependency on other libraries
