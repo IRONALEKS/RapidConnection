@@ -1,4 +1,4 @@
-![Alt text](/Images/Logo.png?raw=true "Diagram")
+<img src="https://raw.githubusercontent.com/IRONALEKS/RapidConnection/master/Images/Logo.png">
 # RapidConnection
 
 RapidConnection is a lightweight library that is written tottaly in Java without any dependency on other libraries
