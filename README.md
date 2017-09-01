@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/IRONALEKS/RapidConnection/master/Images/Logo.png" width="250" height ="250">
-
 #RapidConnection
+
+<img src="https://raw.githubusercontent.com/IRONALEKS/RapidConnection/master/Images/Logo.png" width="250" height ="250">
 
 RapidConnection is a lightweight library that is written tottaly in Java without any dependency on other libraries
 
