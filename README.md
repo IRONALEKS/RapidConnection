@@ -3,4 +3,4 @@
 
 
 Diagram roughly explaining how it works
-<img src="(Images/Diagram.png"/>
+<img src="(Images/Diagram.png?raw=true"/>
