@@ -7,6 +7,9 @@ It is made to send small or large messages across a tcp connection at a very fas
 
 The documentation is in my taste well written, hope it will be useful to you :D
 
+On mu laptop the speed is from 1800000 to 2500000 messages per second
+Each message is roughly 11 bytes
+
 This diagram roughly explaining RapidConnection works
 
 ![Alt text](/Images/Diagram.png?raw=true "Diagram")
