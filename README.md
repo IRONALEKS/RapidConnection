@@ -9,7 +9,9 @@ The documentation is in my taste well written, hope it will be useful to you :D
 
 On mu laptop the speed is from 1800000 to 2500000 messages per second
 
-Each message is roughly 11 bytes
+Tested on ip:localhost port:25565
+
+Each message is roughly 10 bytes
 
 This diagram roughly explaining RapidConnection works
 
