@@ -3,5 +3,4 @@
 
 
 Diagram roughly explaining how it works
-
-![Alt text](/Images/Diagram.png?raw=true "Diagram")
+<img src="(/Images/Diagram.png"/>
