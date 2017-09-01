@@ -1,4 +1,4 @@
-#RapidConnection
+# RapidConnection
 RapidConnection is a lightweight library that is written tottaly in Java without any dependency on other libraries
 
 It is made to send small or large messages across a tcp connection at a very fast rate
