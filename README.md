@@ -6,5 +6,12 @@ It is made to send small or large messages across a tcp connection at a very fas
 
 The documentation is in my taste well written, hope it will be useful to you :D
 
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
 Diagram roughly explaining how it works
 ![Alt text](/Images/Diagram.png?raw=true "Diagram")
