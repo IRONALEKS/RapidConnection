@@ -7,7 +7,7 @@ It is made to send small or large messages across a tcp connection at a very fas
 
 The documentation is in my taste well written, hope it will be useful to you :D
 
-On my laptop the speed is from 1800000 to 2500000 messages per second
+On my laptop the speed is from 2000000 to 3000000 messages per second
 
 Tested on ip:localhost port:25565
 
